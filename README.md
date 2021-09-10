@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArnaudFRANCOISE
-- 🌱 I’m currently learning different machine learning technics
+- 🌱 I am a student in Artificial Intelligence at ISEN.
 - 📫 To reach me: arnaud.francoise@student.junia.com
 
 I am passionate about sound and image processing and trying to discover how machine learning could be used !
